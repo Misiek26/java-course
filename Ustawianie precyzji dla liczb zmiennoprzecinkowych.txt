@@ -1,0 +1,1 @@
+System.out.printf("łańcuch znakowy %.1f",nazwa_zmiennej); - zmienną z jednym miejscem po przecinku
